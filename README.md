@@ -1,6 +1,6 @@
 # Hey, I'm Chitransh 👋
 
-### Aspiring AI/ML Engineer | B.Tech @ CUTM '30 | Lifelong Builder
+### Aspiring AI/ML Engineer | B.Tech # CUTM '30 | Lifelong Builder
 
 ---
 
