@@ -22,6 +22,10 @@ chitransh = {
     "os"        : "Ubuntu (Linux daily driver)",
     "mission"   : "Build world-class AI. Not just use it.",
     "principle" : "Facts over opinions. Depth over surface. Build over watch.",
+    "currently" : "Python → Math → ML → Deep Learning",
+    "goal"      : "Co-found an AI startup. Change something real.",
+    "fun_fact"  : "I can disassemble and repair laptops & electronics",
+    "status"    : "Building in silence. Let the commits speak.",
 }
 ```
 
