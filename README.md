@@ -14,20 +14,17 @@
 
 ## 🧠 Who Am I
 
-```python
-chitransh = {
-    "name"      : "Chitransh",
-    "location"  : "Jamshedpur, Jharkhand → Bhubaneswar (CUTM)",
-    "degree"    : "B.Tech AI/ML — Class of 2030",
-    "os"        : "Ubuntu (Linux daily driver)",
-    "mission"   : "Build world-class AI. Not just use it.",
-    "principle" : "Facts over opinions. Depth over surface. Build over watch.",
-    "currently" : "Python → Math → ML → Deep Learning",
-    "goal"      : "Co-found an AI startup. Change something real.",
-    "fun_fact"  : "I can disassemble and repair laptops & electronics",
-    "status"    : "Building in silence. Let the commits speak.",
-}
-```
+| | |
+|---|---|
+| 🧠 **Name** | Chitransh |
+| 📍 **Location** | Jamshedpur, Jharkhand → Bhubaneswar (CUTM) |
+| 🎓 **Degree** | B.Tech AI/ML — Class of 2030 |
+| 💻 **OS** | Ubuntu (Linux daily driver) |
+| 🎯 **Mission** | Build world-class AI. Not just use it. |
+| 📌 **Principle** | Facts over opinions. Depth over surface. |
+| 🔥 **Currently** | Python → Math → ML → Deep Learning |
+| 🚀 **Goal** | Co-found an AI startup. Change something real. |
+| ⚡ **Status** | Building in silence. Let the commits speak. |
 
 - 🚀 Not chasing certificates — chasing **deep understanding**
 - 🔬 Learning from **first principles**: Python → Math → ML → Deep Learning → Transformers
