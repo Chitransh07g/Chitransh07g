@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Chitransh+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+Making;Building+Real+Things%2C+Not+Just+Tutorials;Future%3A+World-Class+AI+Researcher" alt="Typing SVG" />
+# Hey, I'm Chitransh 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+the+Making;Building+Real+Things%2C+Not+Just+Tutorials;Future%3A+World-Class+AI+Researcher;Co-Founder+in+Progress" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chitransh07g)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/veyrixx007)
-[![Profile Views](https://komarev.com/ghpvc/?username=Chitransh07g&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Chitransh07g)
+![Profile Views](https://komarev.com/ghpvc/?username=Chitransh07g&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -101,5 +101,18 @@
 **`Building in public. Learning in depth. Shipping in silence.`**
 
 ⭐ *If my work resonates — drop a star. It means more than you think.*
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chitransh07g)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/veyrixx007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chitransh07g)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/veyrixx007)
 
 </div>
