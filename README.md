@@ -16,8 +16,8 @@
 
 | | |
 |---|---|
-| 🧠 **Name** | Chitransh |
-| 📍 **Location** | Jamshedpur, Jharkhand → Bhubaneswar (CUTM) |
+| 🧠 **Name** | Chitransh Kumar Gupta |
+| 📍 **Location** | Noamundi , Jharkhand → Bhubaneswar (CUTM) |
 | 🎓 **Degree** | B.Tech AI/ML — Class of 2030 |
 | 💻 **OS** | Ubuntu (Linux daily driver) |
 | 🎯 **Mission** | Build world-class AI. Not just use it. |
